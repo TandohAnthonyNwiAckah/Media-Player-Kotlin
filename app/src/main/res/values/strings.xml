@@ -1,0 +1,53 @@
+<!--
+Copyright (C) 2017 Tanamo Inc.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+You may obtain a copy of the License at
+
+ http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+limitations under the License.
+-->
+
+
+<resources>
+
+    <string name="app_name">Media Player</string>
+
+    <string name="playstore_link">http://play.google.com/store/apps/details?id=</string>
+    <string name="market_link">market://details?id=</string>
+    <string name="banner_ad_unit_id">ca-app-pub-5926407368322067/9651022035</string>
+    <string name="no_em_ins">There are no email clients installed.</string>
+    <string name="fb">Feedback</string>
+    <string name="about_text">No internet Connection needed</string>
+    <string name="author">Tanamo Inc.</string>
+    <string name="website">Website</string>
+    <string name="face">Facebook</string>
+    <string name="website_url">"http://www.tanamoinc.com/a/"</string>
+    <string name="face_url">https://www.facebook.com/Tanamo-Inc-204731483344765/</string>
+    <string name="about">About</string>
+    <string name="dwq">Do you really want to quit ?</string>
+    <string name="log_out_suc">Quit success!</string>
+    <string name="github">Download Source Code</string>
+    <string name="github_link">https://github.com/Tanamo-Inc</string>
+
+
+    <string name="sha">Please check out the Media Player App on Github!https://github.com/Tanamo-Inc/</string>
+    <string name="shavi">Share via</string>
+    <string name="quit">Quit</string>
+    <string name="feedback">FeedBack</string>
+    <string name="more_apps">More Apps</string>
+    <string name="tell_a_friend">Tell a friend</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="videos">Videos</string>
+
+
+</resources>
+
+
+
+
