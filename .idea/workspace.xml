@@ -1,7 +1,334 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f065d84-bb94-4244-89a6-33dce7970f3b" name="Default" comment="" />
+    <list default="true" id="8f065d84-bb94-4244-89a6-33dce7970f3b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.0-milestone-1/fileChanges/last-build.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.0-milestone-1/fileContent/fileContent.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.0-milestone-1/fileHashes/fileHashes.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.0-milestone-1/fileHashes/fileHashes.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.0-milestone-1/fileHashes/jvmClassSignatures.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.0-milestone-1/javaCompile/classAnalysis.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.0-milestone-1/javaCompile/jarAnalysis.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.0-milestone-1/javaCompile/javaCompile.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.0-milestone-1/javaCompile/taskHistory.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.0-milestone-1/javaCompile/taskJars.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.0-milestone-1/taskHistory/fileSnapshots.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.0-milestone-1/taskHistory/taskHistory.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.0-milestone-1/taskHistory/taskHistory.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/built.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/ic_launcher-web.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_abt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_back.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_lo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_na.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ima.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-20-02-44-952.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-20-03-09-345.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-20-03-56-261.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-20-04-08-655.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-20-15-48-175.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-20-15-56-690.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-20-30-23-158.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-20-31-17-652.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-20-32-41-084.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-20-36-17-815.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-20-47-12-218.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-20-48-36-975.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-20-50-09-250.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-20-50-55-562.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-20-51-43-977.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-20-52-17-330.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-20-54-19-045.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-20-55-41-324.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-20-59-02-466.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-21-04-32-317.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-21-06-30-737.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-21-07-58-702.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-05-48-25-982.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-05-49-50-946.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-06-18-50-344.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-06-43-54-986.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-07-22-52-237.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-07-26-15-212.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-07-31-13-804.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-07-55-17-655.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-08-23-55-587.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-08-26-39-615.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-13-22-30-108.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-16-13-10-682.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-16-13-37-041.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-16-39-17-973.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-16-42-19-980.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-16-44-21-734.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-16-47-13-322.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-17-08-46-750.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-17-17-11-378.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-17-18-38-945.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-17-20-29-409.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-17-24-04-452.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-17-25-18-239.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-17-26-29-408.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-17-28-10-251.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-17-32-17-280.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-17-36-49-764.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-17-39-46-229.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-17-41-34-194.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-17-43-18-676.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-17-52-42-140.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-17-53-51-713.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-17-55-30-232.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-17-56-19-783.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-17-57-49-752.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-17-59-47-495.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-18-01-18-500.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-18-03-07-058.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-18-04-42-025.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-18-09-08-372.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-18-11-58-353.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-18-30-47-390.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-11-17-17-407.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-11-18-19-301.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-11-22-11-790.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-11-42-13-397.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-11-45-58-266.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-11-57-03-705.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-12-05-07-866.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-12-11-35-713.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-12-17-18-290.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-12-21-02-570.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-12-39-01-131.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-12-43-02-444.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-13-17-13-575.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-13-27-36-018.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-13-29-03-773.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-13-37-23-052.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-14-20-13-776.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-14-21-28-783.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-14-21-49-712.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-14-22-26-249.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-14-47-37-642.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-14-49-18-144.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-18-35-45-391.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-18-36-37-157.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-18-59-38-889.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-19-08-03-455.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-19-14-56-242.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-19-16-14-985.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-19-18-30-801.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-05-16-15-13-793.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-05-16-22-07-395.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-05-16-24-00-426.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-05-16-30-34-652.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-05-16-52-19-040.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-05-17-02-33-112.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-05-17-03-22-748.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pics/a1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pics/a2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_26_0_0_alpha1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/anko_appcompat_v7_0_9_1a.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/anko_common_0_9_1a.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/anko_sdk15_0_9_1a.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/anko_support_v4_0_9_1a.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/annotations_13_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/answers_1_3_13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_26_0_0_alpha1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/beta_1_2_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/cardview_v7_26_0_0_alpha1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/circleimageview_1_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/constraint_layout_1_0_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/constraint_layout_solver_1_0_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/crashlytics_2_6_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/crashlytics_core_2_3_17.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/design_26_0_0_alpha1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/fabric_1_3_17.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/kotlin_stdlib_1_1_2_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_ads_11_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_ads_lite_11_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_base_11_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_basement_11_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_clearcut_11_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_gass_11_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_safetynet_11_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_tasks_11_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_26_0_0_alpha1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_annotations_26_0_0_alpha1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_compat_26_0_0_alpha1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_core_ui_26_0_0_alpha1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_core_utils_26_0_0_alpha1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_fragment_26_0_0_alpha1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_media_compat_26_0_0_alpha1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_26_0_0_alpha1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_26_0_0_alpha1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/transition_26_0_0_alpha1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MediaPlayer.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fabric.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/proguard-rules.pro" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/tanamo/mediaplayer/adapter/Adapt.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/tanamo/mediaplayer/model/About.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/tanamo/mediaplayer/model/Cedis.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/tanamo/mediaplayer/model/Kons.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/tanamo/mediaplayer/model/Mod.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/tanamo/mediaplayer/ui/Flash.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/tanamo/mediaplayer/ui/MainActivity.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_apps_black_24dp.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_logout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_loo.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_more_horiz_black_24dp.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_send_black_24dp.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_share_black_24dp.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_star_half_black_24dp.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/about.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/cedis.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/drawer_header.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/flash.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/menu/drawer.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi/ic_launcher.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values/ic_launcher_background.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-20-02-44-952.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-20-03-09-345.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-20-03-56-261.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-20-04-08-655.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-20-15-48-175.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-20-15-56-690.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-20-30-23-158.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-20-31-17-652.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-20-32-41-084.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-20-36-17-815.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-20-47-12-218.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-20-48-36-975.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-20-50-09-250.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-20-50-55-562.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-20-51-43-977.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-20-52-17-330.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-20-54-19-045.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-20-55-41-324.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-20-59-02-466.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-21-04-32-317.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-21-06-30-737.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-02-21-07-58-702.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-05-48-25-982.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-05-49-50-946.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-06-18-50-344.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-06-43-54-986.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-07-22-52-237.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-07-26-15-212.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-07-31-13-804.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-07-55-17-655.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-08-23-55-587.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-08-26-39-615.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-13-22-30-108.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-16-13-10-682.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-16-13-37-041.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-16-39-17-973.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-16-42-19-980.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-16-44-21-734.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-16-47-13-322.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-17-08-46-750.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-17-17-11-378.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-17-18-38-945.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-17-20-29-409.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-17-24-04-452.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-17-25-18-239.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-17-26-29-408.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-17-28-10-251.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-17-32-17-280.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-17-36-49-764.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-17-39-46-229.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-17-41-34-194.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-17-43-18-676.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-17-52-42-140.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-17-53-51-713.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-17-55-30-232.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-17-56-19-783.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-17-57-49-752.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-17-59-47-495.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-18-01-18-500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-18-03-07-058.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-18-04-42-025.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-18-09-08-372.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-18-11-58-353.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-18-30-47-390.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-11-17-17-407.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-11-18-19-301.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-11-22-11-790.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-11-42-13-397.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-11-45-58-266.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-11-57-03-705.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-12-05-07-866.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-12-11-35-713.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-12-17-18-290.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-12-21-02-570.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-12-39-01-131.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-12-43-02-444.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-13-17-13-575.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-13-27-36-018.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-13-29-03-773.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-13-37-23-052.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-14-20-13-776.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-14-21-28-783.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-14-21-49-712.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-14-22-26-249.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-14-47-37-642.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-14-49-18-144.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-18-35-45-391.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-18-36-37-157.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-18-59-38-889.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-19-08-03-455.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-19-14-56-242.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-19-16-14-985.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-19-18-30-801.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-05-16-15-13-793.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-05-16-22-07-395.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-05-16-24-00-426.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-05-16-30-34-652.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-05-16-52-19-040.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-05-17-02-33-112.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-05-17-03-22-748.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/kotlin-build/caches/version.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/settings.gradle" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +342,15 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
@@ -30,6 +364,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -1922,9 +2259,9 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="AndroidView" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -2151,39 +2488,39 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1378" height="754" extended-state="0" />
+    <frame x="-8" y="-8" width="1378" height="754" extended-state="1" />
     <layout>
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962063" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Fabric" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Fabric" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -2194,6 +2531,16 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#503#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
